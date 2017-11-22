@@ -1,0 +1,11 @@
+alias la="ls -a"
+alias brc="vi ~/.bashrc"
+alias sbrc="source ~/.bashrc"
+alias vrc="vi ~/.vimrc"
+alias ali="vi ~/.alias"
+alias gitdir='cd /mnt/c/Users/siver/Documents/git/'
+alias tuk='cd /mnt/c/Users/siver/Google\ Drive/#tuk'
+alias down='cd /mnt/c/Users/siver/Downloads'
+
+alias hg='history | grep '
+alias s='source'
