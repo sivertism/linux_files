@@ -11,4 +11,5 @@ a qtc='~/Qt/Tools/QtCreator/bin/qtcreator &'
 a fork='echo "curl -u 'sivertism' https://api.github.com/repos/TUK-SCVP/SCVP.Exercise2/forks -d ''"'
 a hg='history | grep '
 a s='source'
+a vds="ssh -X vds13@traminer.eit.uni-kl.de"
 unalias a
